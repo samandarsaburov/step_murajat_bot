@@ -1,0 +1,23 @@
+# Python bytecode fayllar
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# .env fayl (token va boshqa maxfiy ma’lumotlar)
+.env
+
+# IDE fayllari
+.vscode/
+.idea/
+.idea
+idea
+# Log fayllar
+*.log
+
+# OS fayllari
+.DS_Store
+Thumbs.db
