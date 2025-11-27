@@ -14,7 +14,7 @@ from telegram.ext import (
 
 # Botning TOKENi va ADMIN CHAT ID si (O'zgartirish shart!)
 BOT_TOKEN = "8296929305:AAGMc7VsmAf-zgHkq73WN_6o-j4e28x_UVE"
-ADMIN_CHAT_ID = 8329974466
+ADMIN_CHAT_ID = 724199079
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
